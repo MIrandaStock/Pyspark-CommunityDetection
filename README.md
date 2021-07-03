@@ -4,3 +4,5 @@
 3. 代码主要在CommunityCetection.ipynb中，CommunityCetection.py是相同的内容
 4. csv文件是代码过程中生成的相关文件
 5. 具体实验过程看实验报告
+6. 相关安装包链接：链接：https://pan.baidu.com/s/190zKj8Jr_UVIXU-bNVIc0Q 
+提取码：ryuk
